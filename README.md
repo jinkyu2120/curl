@@ -2,7 +2,9 @@
 Copyright (C) Daniel Stenberg, <daniel@haxx.se>, et al.
 
 SPDX-License-Identifier: curl
+수정수정..
 -->
+
 
 # [![curl logo](https://curl.se/logo/curl-logo.svg)](https://curl.se/)
 
